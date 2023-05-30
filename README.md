@@ -5,13 +5,13 @@ This package generate random quotes of historical people
 ## Install
 
 ```npm
-npm install -g random-quotes-generator
+npm install -g rq-generator
 ```
 
 # Usage
 
 ```Bash
-random-quotes-generator
+rq-generator
 ```
 
 # output
@@ -20,7 +20,7 @@ random-quotes-generator
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-quotes-generator](https://github.com/robert-ds/random-quotes-generator)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-quotes-generator](https://github.com/robert-ds/rq-generator)
 
 # License
 
