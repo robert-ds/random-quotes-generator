@@ -1,0 +1,22 @@
+{
+  "name": "random-quotes-generator",
+  "version": "1.0.0",
+  "description": "This package generate random quotes of historical people",
+  "main": "index.js",
+  "keywords": ["random","quotes","generator","package"],
+  "author": "Robert Vásquez <vasquezrobert09@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-quotes-generator": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-ds/random-quotes-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robert-ds/random-quotes-generator/issues"
+  },
+  "homepage": "https://github.com/robert-ds/random-quotes-generator#readme"
+}
+
