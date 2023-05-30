@@ -20,8 +20,8 @@ rq-generator
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-quotes-generator](https://github.com/robert-ds/rq-generator)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [rq-generator](https://github.com/robert-ds/rq-generator)
 
 # License
 
-random-quotes-generator is released under the [MIT License](https://opensource.org/license/MIT).
+rq-generator is released under the [MIT License](https://opensource.org/license/MIT).
